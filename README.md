@@ -1,0 +1,3 @@
+# LotusMind
+
+Personal Meditation Applciation
