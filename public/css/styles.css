@@ -419,6 +419,55 @@ span {
     animation: fade-in-down 6s forwards;
     filter: drop-shadow(0 -5rem 13rem rgb(249, 237, 173));
 }
+
+#teens{
+  max-width: 15vw;
+  position: absolute;
+  z-index: 10;
+  right:10%;
+  bottom:20%
+}
+#tribes{
+  max-width: 10vw;
+  position: absolute;
+  z-index: 10;
+  left:5%;
+  bottom:40%;
+}
+
+#fireplace{
+  max-width: 10vw;
+  position: absolute;
+  z-index: 10;
+  left:2%;
+  bottom:35%;
+}
+
+#rock{
+  max-width: 5vw;
+  position: absolute;
+  z-index: 10;
+  right:2%;
+  bottom:35%;
+}
+
+#tombstone{
+  max-width: 2vw;
+  position: absolute;
+  z-index: 10;
+  right:10%;
+  bottom:60%;
+}
+
+#lotus-flower{
+  max-width: 10vw;
+  position: absolute;
+  z-index: 10;
+  right:5%;
+  bottom:20%;
+}
+
+
 /* 
 @keyframes fadeInDown {
     0% {
